@@ -22,7 +22,7 @@ Métodos: ligar(String numero), atender(), iniciarCorreioVoz() <br>
 
 Métodos: exibirPagina(String url), adicionarNovaAba(), atualizarPagina()
 
-<img src="image/diagrama_uml_iphone.jpg">
+<img src="diagrama_java/image/diagrama_uml_iphone.jpg">
 
 
 ## Implementação do Diagrama
